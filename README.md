@@ -35,7 +35,7 @@ Sou apaixonado por programação e tudo sobre a comunidade de tecnologia. Preten
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdersonJuinor&theme=vue-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcosFranca91&theme=vue-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosFranca91&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarcosFranca91/dio-lab-open-source)
