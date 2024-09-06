@@ -4,7 +4,9 @@ Meu nome é Marcos Franca, sou desenvolvedor Backend a 8 anos.
 Sou apaixonado por programação e tudo sobre a comunidade de tecnologia. Pretendo trabalhar para outros pais em breve.
 
 ## Meus hobbies
-- ### Corridas de ruas.
+- ### Corridas de Kart.
+- ### Academia.
+- ### Futebol.
 - ### Criar Aplicativos.
 - ### Programar.
 
